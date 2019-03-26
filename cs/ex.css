@@ -16,7 +16,7 @@ main{
   left: 250px;
 }
 
-.img{
+.personal_photo{
   width:200px;
   height: 200px;
 }
@@ -33,11 +33,18 @@ li {
 .main_row{
   margin-left: 7px;
 }
+
 .carousel {
   width:100px;
   height:30px;
 }
+
 .img_header{
+  width:100%;
+  height: 300px;
+}
+
+.page2_img{
   width:100%;
   height: 300px;
 }
